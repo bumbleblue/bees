@@ -1,0 +1,9 @@
+# Site settings
+title: The Bees' Knees Berlin
+tag_text: When you lead...
+description: ...we will follow! The Bees' Knees Berlin are looking for a new lead! That's a person who sings the melody part in a barbershop quartet.
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
