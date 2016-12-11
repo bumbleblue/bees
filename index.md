@@ -54,7 +54,7 @@ Singing barbershop can be a challenge, but that's what makes it fun! As Deke Sha
 ### Why "The Bees' Knees"?
 
 "The bees' knees" is an old-fashioned expression for something like "cool".
-Example: "These waffles are amazing!" "Oh yeah, they're the bees' knees!s"
+Example: "These waffles are amazing!" "Oh yeah, they're the bees' knees!"
 
 ### Do I have to be a woman to sing with you?
 
