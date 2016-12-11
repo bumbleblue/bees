@@ -34,7 +34,7 @@ One of us will be leaving next year. Since it takes four to barbershop, we are l
 * We're flexible – we can shift rehearsal time and location to accommodate your schedule.
 * Barbershop is an awesome musical style if you haven't tried it already.
 
-`Our audition will take place in January. Write us by clicking the button below, and we'll send you more information.`
+`Our audition will take place on January 7th. Write us by clicking the button below, and we'll send you more information.`
 
 <div style="text-align:center;">
     <a href="mailto&#58;&#116;&#104;&#101;&#98;&#107;&#52;&#98;&#101;&#114;&#108;&#105;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;?subject=I'm interested in singing with you!"><button>Write us!</button></a>
@@ -65,7 +65,7 @@ Short answer: no. Write us an email and we'll figure something out!
 
 ### What songs do you sing?
 
-We mostly sing pop songs in the barbershop style. This is a sample set:
+We mostly sing pop songs in the barbershop style. Here is a sample set:
 
 | Song | Style |
 | :------------- | :------------- |
@@ -74,6 +74,7 @@ We mostly sing pop songs in the barbershop style. This is a sample set:
 | Crazy  | Ballad  |
 | Nevertheless | Swing ballad  |
 | Halleluja | Ballad  |
+| Orange Colored Sky | Uptune  |
 
 ### How do I prepare for the audition?
 
