@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
-...we will follow! We are [The Bees' Knees](https://www.facebook.com/theBK4Berlin/), a women's a cappella group in Berlin, and we are looking for a new lead. That's a person who sings the melody part in a <a href="#barbershop">barbershop</a> quartet. If you enjoy high-level singing, close harmonies, and sappy love songs, you should definitely come to our audition in January 2017!
+
+![picture](/bees_s.png)
+
+We are [The Bees' Knees](https://www.facebook.com/theBK4Berlin/), a women's a cappella group in Berlin, and we are looking for a new lead. That's a person who sings the melody part in a <a href="#barbershop">barbershop</a> quartet. If you enjoy high-level singing, close harmonies, and sappy love songs, you should definitely come to our audition in January 2017!
 
 <div style="text-align:center;">
     <a href="mailto&#58;&#116;&#104;&#101;&#98;&#107;&#52;&#98;&#101;&#114;&#108;&#105;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;?subject=I'm interested in singing with you!"><button>Write us!</button></a>
     <br><br>
 </div>
-
-![picture](/leads.png)
 
 ## Who we are
 
