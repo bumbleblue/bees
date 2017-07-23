@@ -14,7 +14,7 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  color: #FFDC00;
+  color: #FFF;
 }
 
 @media (min-width: 30rem) {
@@ -24,7 +24,7 @@ body {
 }
 
 a {
-  color: #7FDBFF; /* From http://clrs.cc */
+  color: #FFDC00; /* From http://clrs.cc */
   text-decoration: none;
 }
 
@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Lato, sans-serif;
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   line-height: 1;
-  color: #FFDC00;
+  color: #FFF;
   text-rendering: optimizeLegibility;
 }
 
