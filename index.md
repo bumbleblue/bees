@@ -6,7 +6,7 @@ layout: default
 
 ![picture](/bees.jpg)
 
-We are The Bees' Knees, a German-American barbershop quartet from Berlin. We've sung together in various constellations since 2013. We sing at different private and public occasions and also participate in contests. Download a recording of us [here](https://drive.google.com/file/d/0B1qWGtqQgRgkam1ITWZfTlo0UU0/view?usp=sharing).
+We are The Bees’ Knees, a German-American women’s barbershop quartet from Berlin. We’ve been singing together in various constellations since 2013. We perform at various private and public occasions upon request, and we also compete in barbershop contests. Download a recording of us [here](https://drive.google.com/file/d/0B1qWGtqQgRgkam1ITWZfTlo0UU0/view?usp=sharing).
 
 More photos and updates are on our [Facebook page](https://www.facebook.com/theBK4Berlin/).
 
@@ -16,7 +16,7 @@ More photos and updates are on our [Facebook page](https://www.facebook.com/theB
 
 ### What is barbershop, anyway?
 
-Barbershop is four-part close harmony singing. You may have seen a barbershop quartet before without realizing it: They appear in [The Music Man](https://www.youtube.com/watch?v=nO0DFttQoJc), in [Scrubs](https://www.youtube.com/watch?v=hN8vA_bulss), on [Jimmy Fallon](https://www.youtube.com/watch?v=I-4FtBjjelA). Barbershop music is full of seventh chords, syncopations, and play between the different voices. The four parts of barbershop singing are tenor, lead, baritone, and bass. More information on [Wikipedia](https://en.wikipedia.org/wiki/Barbershop_music).
+Barbershop is four-part close harmony singing. You may have seen a barbershop quartet before without realizing it: They show up in [The Music Man](https://www.youtube.com/watch?v=nO0DFttQoJc), in [Scrubs](https://www.youtube.com/watch?v=hN8vA_bulss), on [Jimmy Fallon](https://www.youtube.com/watch?v=I-4FtBjjelA). Barbershop singing is full of seventh chords, syncopations, and interplay between the different voices. The four voices of barbershop music are tenor, lead, baritone, and bass. More information on [Wikipedia](https://en.wikipedia.org/wiki/Barbershop_music).
 
 Singing barbershop can be a challenge, but that's what makes it fun! As Deke Sharon puts it: [It's the martial arts of a cappella singing.](http://www.casa.org/content/acamartialart)
 
@@ -29,7 +29,7 @@ Example: "These waffles are amazing!" "Oh yeah, they're the bees' knees!"
 
 ### What songs do you sing?
 
-We mostly sing pop songs in the barbershop style. Here is a sample set:
+We sing lots of pop songs in the barbershop style, plus some of the classic barbershop “polecats,” and we’ve even learned the US and German national anthems to perform at appropriate occasions. Here is a sample set:
 
 | Song | Style |
 | :------------- | :------------- |
