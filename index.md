@@ -31,7 +31,6 @@ Example: "These waffles are amazing!" "Oh yeah, they're the bees' knees!"
 
 We sing lots of pop songs in the barbershop style, plus some of the classic barbershop “polecats,” and we’ve even learned the US and German national anthems to perform at appropriate occasions. Here is a sample set:
 
-| Song | Style |
 | :------------- | :------------- |
 | Dream a Little Dream of Me  | Swing ballad  |
 | Love Me  | Uptune  |
