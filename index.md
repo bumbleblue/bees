@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![logo](/bees_white.png)
+![logo](/bees_white_new.png)
 
 ![picture](/bees.jpg)
 
@@ -48,10 +48,10 @@ Yes, we're available for private celebrations. Please write us an <a href="mailt
 
 You can sign up for our mailing list (irregular updates) below.
 
-<br><br>
+<br>
 <!-- SendPulse Form -->
  <style >.sp-force-hide { display: none;}.sp-form[sp-id="92029"] { display: block; background: rgba(0, 0, 0); padding: 20px; width: 300px; max-width: 100%; border-radius: 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px; font-family: "Segoe UI", Segoe, "Open Sans", sans-serif; background-repeat: no-repeat; background-position: center; background-size: auto;}.sp-form[sp-id="92029"] .sp-form-fields-wrapper { margin: 0 auto; width: 260px;}.sp-form[sp-id="92029"] .sp-form-control { background: #ffffff; border-color: #ffffff; border-style: solid; border-width: 2px; font-size: 15px; padding-left: 8.75px; padding-right: 8.75px; border-radius: 25px; -moz-border-radius: 25px; -webkit-border-radius: 25px; height: 35px; width: 100%;}.sp-form[sp-id="92029"] .sp-field label { color: #444444; font-size: 13px; font-style: normal; font-weight: bold;}.sp-form[sp-id="92029"] .sp-button { border-radius: 25px; -moz-border-radius: 25px; -webkit-border-radius: 25px; background-color: #ffdc00; color: #333333; width: 100%; font-weight: 700; font-style: normal; font-family: "Segoe UI", Segoe, "Open Sans", sans-serif; box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none;}.sp-form[sp-id="92029"] .sp-button-container { text-align: center; width: auto;}</style><div class="sp-form-outer sp-force-hide"><div id="sp-form-92029" sp-id="92029" sp-hash="b40afb4df7705055989bfa0293285bb51b9ccdb3db6f57eec6f7932625aeafef" sp-lang="en" class="sp-form sp-form-regular sp-form-embed" sp-show-options="%7B%22satellite%22%3Afalse%2C%22maDomain%22%3A%22login.sendpulse.com%22%2C%22formsDomain%22%3A%22forms.sendpulse.com%22%2C%22condition%22%3A%22onEnter%22%2C%22scrollTo%22%3A25%2C%22delay%22%3A10%2C%22repeat%22%3A3%2C%22background%22%3A%22rgba(0%2C%200%2C%200%2C%200.5)%22%2C%22position%22%3A%22bottom-right%22%2C%22animation%22%3A%22%22%2C%22hideOnMobile%22%3Afalse%2C%22urlFilter%22%3Afalse%2C%22urlFilterConditions%22%3A%5B%7B%22force%22%3A%22hide%22%2C%22clause%22%3A%22contains%22%2C%22token%22%3A%22%22%7D%5D%7D"><div class="sp-form-fields-wrapper"><div class="sp-message"><div></div></div><div class="sp-element-container sp-field-nolabel"><div class="sp-field " sp-id="sp-69066baf-ddf0-457e-b9c4-d604dcee4fbe"><label class="sp-control-label"><span >Email</span><strong >*</strong></label><input sp-type="email" name="sform[email]" class="sp-form-control " placeholder="username@gmail.com" sp-tips="%7B%22required%22%3A%22Required%20file%22%2C%22wrong%22%3A%22Wrong%20email%22%7D" required="required" type="email"></div><div class="sp-field sp-button-container sp-lg" sp-id="sp-a69fdeb2-7b5d-47a5-9a66-e3172cde68d8"><button id="sp-a69fdeb2-7b5d-47a5-9a66-e3172cde68d8" class="sp-button">Subscribe </button></div></div><div class="sp-link-wrapper sp-brandname__left"><a class="sp-link " target="_blank" href="https://sendpulse.com/forms-powered-by-sendpulse?sn=YnVtYmxlLmJsdWU%3D&ref=6722928"><span class="sp-link-img"> </span><span translate="FORM.PROVIDED_BY">Provided by SendPulse</span></a></div></div></div></div><script type="text/javascript" src="//static-login.sendpulse.com/apps/fc3/build/default-handler.js?1516625904269"></script>
 <!-- /SendPulse Form -->
 
-
-<p> Impressum &nbsp;&nbsp; | FAQ &nbsp;&nbsp; | &nbsp;&nbsp; Booking </p>
+<br>
+<p> Impressum &nbsp;&nbsp; | &nbsp;&nbsp; FAQ &nbsp;&nbsp; | &nbsp;&nbsp; Booking </p>
