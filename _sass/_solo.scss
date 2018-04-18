@@ -1,9 +1,17 @@
 /*@import url(//fonts.googleapis.com/css?family=Inconsolata:400,700|Montserrat:700);
 */
 @import url(//fonts.googleapis.com/css?family=Lato);
+
+
+.CoreDecoC1 {
+	font-family: CoreDecoC1;
+	font-weight: normal;
+	font-style: normal;
+}
+
 html {
   font: 14px/1.5 Lato;
-  background-color: #111;
+  background-color: #F4FCE3;
 }
 
 @media (min-width: 30rem) {
@@ -14,7 +22,7 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  color: #FFF;
+  color: #2C58B8;
 }
 
 @media (min-width: 30rem) {
@@ -24,7 +32,7 @@ body {
 }
 
 a {
-  color: #FFDC00; /* From http://clrs.cc */
+  color: #FF4242; /* From http://clrs.cc */
   text-decoration: none;
 }
 
@@ -33,11 +41,16 @@ a:hover, a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Lato, sans-serif;
+  font-family: CoreDecoC1;
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   line-height: 1;
-  color: #FFF;
+  color: #2C58B8;
   text-rendering: optimizeLegibility;
+}
+
+input[type=submit]{
+    font-family: CoreDecoC1;
+    color: #2C58B8;
 }
 
 h1 {

@@ -1,24 +1,28 @@
-<!--
 /**
  * @license
  * MyFonts Webfont Build ID 3528893, 2018-02-18T07:06:12-0500
- *
+ * 
  * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are
+ * Agreement(s) entered into by the website owner. All other parties are 
  * explicitly restricted from using the Licensed Webfonts(s).
- *
+ * 
  * You may obtain a valid license at the URLs below.
- *
+ * 
  * Webfont: CoreDecoC1 by S-Core
  * URL: https://www.myfonts.com/fonts/s-core/core-deco/c1/
  * Copyright: Copyright (c) 2014 by S-Core Co., Ltd.. All rights reserved.
  * Licensed pageviews: 10,000
- *
- *
+ * 
+ * 
  * License: https://www.myfonts.com/viewlicense?type=web&buildid=3528893
- *
+ * 
  * © 2018 MyFonts Inc
 */
 
--->
-<link rel="stylesheet" type="text/css" href="/css/MyFontsWebfontsKit.css">
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("/count/35d8bd");
+
+  
+@font-face {font-family: 'CoreDecoC1';src: url('webfonts/35D8BD_0_0.eot');src: url('webfonts/35D8BD_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35D8BD_0_0.woff2') format('woff2'),url('webfonts/35D8BD_0_0.woff') format('woff'),url('webfonts/35D8BD_0_0.ttf') format('truetype');}
+ 
