@@ -11,7 +11,7 @@
 
 html {
   font: 14px/1.5 Lato;
-  background-color: #F4FCE3;
+  background-color: #619AA3;
 }
 
 @media (min-width: 30rem) {
@@ -22,7 +22,7 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  color: #2C58B8;
+  color: #FFFFFD;
 }
 
 @media (min-width: 30rem) {
@@ -32,8 +32,8 @@ body {
 }
 
 a {
-  color: #FF4242; /* From http://clrs.cc */
-  text-decoration: none;
+  color: #FFFFFD;
+  text-decoration: underline;
 }
 
 a:hover, a:focus {
@@ -44,13 +44,13 @@ h1, h2, h3, h4, h5, h6 {
   font-family: CoreDecoC1;
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   line-height: 1;
-  color: #2C58B8;
+  color: #FFFFFD;
   text-rendering: optimizeLegibility;
 }
 
 input[type=submit]{
     font-family: CoreDecoC1;
-    color: #2C58B8;
+    color: #D95737;
 }
 
 h1 {
