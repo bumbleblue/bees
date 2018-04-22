@@ -7,19 +7,9 @@ title: Home
 
 We are The Bees’ Knees, a German-American barbershop quartet in Berlin. We enjoy singing at various private and public occasions and also compete in barbershop contests.
 
-### Upcoming Events
+## Upcoming Events
 
-{% highlight md %}
-Wochenend und Sonnenschein
-ein a cappella Abend
-mit The Bees’ Knees & The Bare Necessities
-05.05.18, 19:30
-Gemeindesaal der EMA
-
-Onkel-Tom-Straße 80, U-Bahn Onkel Toms Hütte
-Gastgeber: Verein Papageiensiedlung
-Eintritt frei, Spenden erwünscht.
-{% endhighlight %}
+![flyer](/images/wochenend.png)
 
 If you want to stay updated on our upcoming concerts, please sign up for our mailing list below!
 
