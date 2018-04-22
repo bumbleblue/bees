@@ -1,24 +1,53 @@
-<!--
-/**
- * @license
- * MyFonts Webfont Build ID 3528893, 2018-02-18T07:06:12-0500
- *
- * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are
- * explicitly restricted from using the Licensed Webfonts(s).
- *
- * You may obtain a valid license at the URLs below.
- *
- * Webfont: CoreDecoC1 by S-Core
- * URL: https://www.myfonts.com/fonts/s-core/core-deco/c1/
- * Copyright: Copyright (c) 2014 by S-Core Co., Ltd.. All rights reserved.
- * Licensed pageviews: 10,000
- *
- *
- * License: https://www.myfonts.com/viewlicense?type=web&buildid=3528893
- *
- * © 2018 MyFonts Inc
-*/
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
--->
-<link rel="stylesheet" type="text/css" href="/css/MyFontsWebfontsKit.css">
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
+
+  <!--
+  /**
+   * @license
+   * MyFonts Webfont Build ID 3528893, 2018-02-18T07:06:12-0500
+   *
+   * The fonts listed in this notice are subject to the End User License
+   * Agreement(s) entered into by the website owner. All other parties are
+   * explicitly restricted from using the Licensed Webfonts(s).
+   *
+   * You may obtain a valid license at the URLs below.
+   *
+   * Webfont: CoreDecoC1 by S-Core
+   * URL: https://www.myfonts.com/fonts/s-core/core-deco/c1/
+   * Copyright: Copyright (c) 2014 by S-Core Co., Ltd.. All rights reserved.
+   * Licensed pageviews: 10,000
+   *
+   *
+   * License: https://www.myfonts.com/viewlicense?type=web&buildid=3528893
+   *
+   * © 2018 MyFonts Inc
+  */
+
+  -->
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}public/css/MyFontsWebfontsKit.css">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
