@@ -2,6 +2,9 @@
 layout: page
 title: About
 ---
+![picture](/images/bees.jpg)
+
+We are The Bees’ Knees, a German-American barbershop quartet in Berlin. We enjoy singing at various private and public occasions and also compete in barbershop contests.
 
 ### Why "The Bees' Knees"?
 
