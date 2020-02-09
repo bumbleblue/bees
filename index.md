@@ -3,11 +3,9 @@ layout: default
 title: Home
 ---
 
-![picture](/images/anatomy_of_harmony_vol_2.png)
+![picture](/images/bees.jpg)
 
-The Bees' Knees are buzzing with excitement! We have a great program prepared for next Saturday, with lots of new songs. Come and see us with TONTÄTER in the historic Anatomischer Hörsaal of the Charité!
-
-### [Buy your tickets now!](https://pretix.eu/bees/anatomie-vol2/)
+We are The Bees’ Knees, a German-American barbershop quartet in Berlin. We enjoy singing at various private and public occasions and also compete in barbershop contests.
 
 If you want to stay updated on our upcoming concerts, please sign up for our mailing list below.
 
